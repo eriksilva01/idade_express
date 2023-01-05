@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1070527/pexels-photo-1070527.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+    font: normal 15pt Arial;
+    
+    
+    }
+    header{
+        color: rgb(29, 29, 29);
+        text-align: center;
+        font:bold 30pt Arial;
+    }
+    section{
+        border-style: double;
+        color: rgb(255, 255, 255);
+        background: rgb(0, 0, 0);
+        border-radius: 0.63rem;
+        padding: 0.0rem;
+        width: 31.25rem;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.504);
+        opacity: 90%;
+    }
+    footer{
+        color: rgb(254, 253, 253);
+        text-align: center;
+        font-style: italic;
+        font-size:medium;
+        padding: 1rem;
+    }
+    div {
+        text-align:center;
+          
+    }
+    div#res{
+        padding: 1rem;
+    }
+    div input {
+        border-radius: 10rem;
+    }
